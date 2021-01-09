@@ -1,0 +1,6 @@
+node_modules
+migrations
+env
+error.log
+fabfile.py
+README.md
