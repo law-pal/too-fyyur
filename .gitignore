@@ -1,4 +1,6 @@
+node_modules/bootstrap
 node_modules
+bootstrap
 migrations
 env
 error.log
