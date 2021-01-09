@@ -6,3 +6,4 @@ env
 error.log
 fabfile.py
 README.md
+__pycache__
